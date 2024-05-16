@@ -1,0 +1,11 @@
+{
+  "produtos": [
+    {
+      "produto": "Jogo 1",
+      "descicao": "Um belo Jogo",
+      "foto": "jogo1.png",
+      "preco": 300,
+      "id": 1
+    }
+  ]
+}
